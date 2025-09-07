@@ -123,3 +123,13 @@ curl -X POST http://localhost:5000/api/auth/signup -H "Content-Type: application
 ```
 
 ---
+## 📸 Screenshots
+
+### Login Page  
+<img width="1858" height="908" alt="Image" src="https://github.com/user-attachments/assets/25d112ce-bac1-44c4-ba4d-8c6be6f4523c"/>
+
+### Signup Page  
+<img width="1853" height="897" alt="Image" src="https://github.com/user-attachments/assets/9b2a48e6-6534-47f1-a820-bbdcff013418" />
+
+### Contacts Dashboard  
+<img width="1852" height="900" alt="Image" src="https://github.com/user-attachments/assets/af3ec4b2-695a-47f2-9582-25e9d1b991c9" />
